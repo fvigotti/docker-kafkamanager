@@ -1,4 +1,4 @@
-FROM java:8u45-jdk
+FROM fvigotti/docker-scala
 
 MAINTAINER fvigotti
 
