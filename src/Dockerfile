@@ -5,7 +5,7 @@ MAINTAINER fvigotti
 
 ENV ZK_HOSTS=localhost:2181 \
      KM_REVISION=ac71562ef67f0eeca8d1ffe6130ef78a2c346875 \
-     KM_VERSION=1.2.5
+     KM_VERSION=1.3.0.4
 
 RUN cd / && \
     git clone https://github.com/yahoo/kafka-manager && \
