@@ -4,7 +4,7 @@ MAINTAINER fvigotti
 
 
 ENV ZK_HOSTS=localhost:2181 \
-     KM_REVISION=ac71562ef67f0eeca8d1ffe6130ef78a2c346875 \
+     KM_REVISION=1b45af100ee302dfe53f31a9c7a041999fe3d83a \
      KM_VERSION=1.3.0.4
 
 RUN cd / && \
